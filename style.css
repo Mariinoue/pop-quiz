@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+.popQuiz{
+    text-align: center;
+    color: black;
+    font-size: 50px; 
+}
+
+.resultado{
+    display: inline-block;
+    padding-bottom: 30px;
+}
+
+#rightAnswer{
+    border: 3px black solid;
+    padding: 30px 50px 90px;
+    display: inline-block;
+    text-align: left;
+    
+}
+
+#wrongAnswer{
+    border: 3px black solid;
+    padding: 30px 50px 90px;
+    display: inline-block;
+    text-align: right;
+}
